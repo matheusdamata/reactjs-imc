@@ -14,7 +14,7 @@ Realizar o cálculo IMC e apresentar ao usuário se sua saúde está saudável.
 #### Observação
 Projeto realizado durante o curso [B7Web](https://b7web.com.br)
 
-### Instação
+### Instalação
 - `npm install`
 
 ### Para rodar
